@@ -30,7 +30,7 @@
 ## Connect With Me
 
 - **GitHub:** https://github.com/onikrao
-- **LinkedIn:** [Add your LinkedIn Profile URL]
+- **LinkedIn:** https://www.linkedin.com/in/onik-rao-08b5b5431/
 - **Email:** [Add your college email address]
 
 <!--
